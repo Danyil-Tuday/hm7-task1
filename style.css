@@ -1,0 +1,15 @@
+h3:nth-child(odd) {
+    color:pink;
+}
+p[id]:nth-child(odd) {
+    color:gray;
+}
+.yellow {
+    color:yellow
+}
+p:nth-child(odd){
+    color:red
+}
+.text-box p:nth-child(7){
+    color:green
+}
